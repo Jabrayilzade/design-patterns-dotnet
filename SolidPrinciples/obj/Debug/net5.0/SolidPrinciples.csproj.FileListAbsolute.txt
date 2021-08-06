@@ -1,0 +1,15 @@
+/Users/user/Documents/GitHub/DesignPatterns/SolidPrinciples/bin/Debug/net5.0/SolidPrinciples.deps.json
+/Users/user/Documents/GitHub/DesignPatterns/SolidPrinciples/bin/Debug/net5.0/SolidPrinciples.runtimeconfig.json
+/Users/user/Documents/GitHub/DesignPatterns/SolidPrinciples/bin/Debug/net5.0/SolidPrinciples.runtimeconfig.dev.json
+/Users/user/Documents/GitHub/DesignPatterns/SolidPrinciples/bin/Debug/net5.0/SolidPrinciples.dll
+/Users/user/Documents/GitHub/DesignPatterns/SolidPrinciples/bin/Debug/net5.0/ref/SolidPrinciples.dll
+/Users/user/Documents/GitHub/DesignPatterns/SolidPrinciples/bin/Debug/net5.0/SolidPrinciples.pdb
+/Users/user/Documents/GitHub/DesignPatterns/SolidPrinciples/obj/Debug/net5.0/SolidPrinciples.csprojAssemblyReference.cache
+/Users/user/Documents/GitHub/DesignPatterns/SolidPrinciples/obj/Debug/net5.0/SolidPrinciples.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/GitHub/DesignPatterns/SolidPrinciples/obj/Debug/net5.0/SolidPrinciples.AssemblyInfoInputs.cache
+/Users/user/Documents/GitHub/DesignPatterns/SolidPrinciples/obj/Debug/net5.0/SolidPrinciples.AssemblyInfo.cs
+/Users/user/Documents/GitHub/DesignPatterns/SolidPrinciples/obj/Debug/net5.0/SolidPrinciples.csproj.CoreCompileInputs.cache
+/Users/user/Documents/GitHub/DesignPatterns/SolidPrinciples/obj/Debug/net5.0/SolidPrinciples.dll
+/Users/user/Documents/GitHub/DesignPatterns/SolidPrinciples/obj/Debug/net5.0/ref/SolidPrinciples.dll
+/Users/user/Documents/GitHub/DesignPatterns/SolidPrinciples/obj/Debug/net5.0/SolidPrinciples.pdb
+/Users/user/Documents/GitHub/DesignPatterns/SolidPrinciples/obj/Debug/net5.0/SolidPrinciples.genruntimeconfig.cache
