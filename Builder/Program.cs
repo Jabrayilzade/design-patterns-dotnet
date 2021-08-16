@@ -11,7 +11,7 @@ namespace Builder
         public string Name;
         public string Text;
         public List<HtmlElement> Elements = new List<HtmlElement>();
-        private const int indentSize = 2;
+        private const int IndentSize = 2;
 
         public HtmlElement()
         {
@@ -26,13 +26,13 @@ namespace Builder
         private string ToStringImpl(int indent)
         {
             var sb = new StringBuilder();
-            var i = new string(' ', indentSize * indent);
+            var i = new string(' ', IndentSize * indent);
 
             sb.AppendLine($"{i}<{Name}>");
 
             if (!string.IsNullOrWhiteSpace(Text))
             {
-                sb.Append(new string(' ', indentSize * (indent + 1)));
+                sb.Append(new string(' ', IndentSize * (indent + 1)));
                 sb.AppendLine(Text);
             }
 
@@ -52,29 +52,30 @@ namespace Builder
 
     public class HtmlBuilder
     {
-        private HtmlElement root = new HtmlElement();
-        private readonly string rootName;
+        private HtmlElement _root = new HtmlElement();
+        private readonly string _rootName;
 
         public HtmlBuilder(string rootName)
         {
-            this.rootName = rootName;
-            root.Name = rootName;
+            this._rootName = rootName;
+            _root.Name = rootName;
         }
 
-        public void AddChild(string name, string text)
+        public HtmlBuilder AddChild(string name, string text)
         {
             var e = new HtmlElement(name, text);
-            root.Elements.Add(e);
+            _root.Elements.Add(e);
+            return this;
         }
 
         public override string ToString()
         {
-            return root.ToString();
+            return _root.ToString();
         }
 
         public void Clear()
         {
-            root = new HtmlElement { Name = rootName };
+            _root = new HtmlElement { Name = _rootName };
         }
     }
 
@@ -83,8 +84,11 @@ namespace Builder
         private static void Main(string[] args)
         {
             var builder = new HtmlBuilder("ul");
-            builder.AddChild("li", "hello");
-            builder.AddChild("li", "hello");
+
+            builder.AddChild("li", "hello")
+                .AddChild("li", "hello")
+                .AddChild("li", "hello");
+
             WriteLine(builder.ToString());
         }
     }
