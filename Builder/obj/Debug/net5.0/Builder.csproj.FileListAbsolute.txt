@@ -1,0 +1,15 @@
+/Users/user/Documents/GitHub/DesignPatterns/Builder/bin/Debug/net5.0/Builder.deps.json
+/Users/user/Documents/GitHub/DesignPatterns/Builder/bin/Debug/net5.0/Builder.runtimeconfig.json
+/Users/user/Documents/GitHub/DesignPatterns/Builder/bin/Debug/net5.0/Builder.runtimeconfig.dev.json
+/Users/user/Documents/GitHub/DesignPatterns/Builder/bin/Debug/net5.0/Builder.dll
+/Users/user/Documents/GitHub/DesignPatterns/Builder/bin/Debug/net5.0/ref/Builder.dll
+/Users/user/Documents/GitHub/DesignPatterns/Builder/bin/Debug/net5.0/Builder.pdb
+/Users/user/Documents/GitHub/DesignPatterns/Builder/obj/Debug/net5.0/Builder.csprojAssemblyReference.cache
+/Users/user/Documents/GitHub/DesignPatterns/Builder/obj/Debug/net5.0/Builder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/GitHub/DesignPatterns/Builder/obj/Debug/net5.0/Builder.AssemblyInfoInputs.cache
+/Users/user/Documents/GitHub/DesignPatterns/Builder/obj/Debug/net5.0/Builder.AssemblyInfo.cs
+/Users/user/Documents/GitHub/DesignPatterns/Builder/obj/Debug/net5.0/Builder.csproj.CoreCompileInputs.cache
+/Users/user/Documents/GitHub/DesignPatterns/Builder/obj/Debug/net5.0/Builder.dll
+/Users/user/Documents/GitHub/DesignPatterns/Builder/obj/Debug/net5.0/ref/Builder.dll
+/Users/user/Documents/GitHub/DesignPatterns/Builder/obj/Debug/net5.0/Builder.pdb
+/Users/user/Documents/GitHub/DesignPatterns/Builder/obj/Debug/net5.0/Builder.genruntimeconfig.cache
