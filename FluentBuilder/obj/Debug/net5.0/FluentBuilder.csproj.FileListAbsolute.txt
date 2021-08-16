@@ -1,0 +1,15 @@
+/Users/user/Documents/GitHub/DesignPatterns/FluentBuilder/bin/Debug/net5.0/FluentBuilder.deps.json
+/Users/user/Documents/GitHub/DesignPatterns/FluentBuilder/bin/Debug/net5.0/FluentBuilder.runtimeconfig.json
+/Users/user/Documents/GitHub/DesignPatterns/FluentBuilder/bin/Debug/net5.0/FluentBuilder.runtimeconfig.dev.json
+/Users/user/Documents/GitHub/DesignPatterns/FluentBuilder/bin/Debug/net5.0/FluentBuilder.dll
+/Users/user/Documents/GitHub/DesignPatterns/FluentBuilder/bin/Debug/net5.0/ref/FluentBuilder.dll
+/Users/user/Documents/GitHub/DesignPatterns/FluentBuilder/bin/Debug/net5.0/FluentBuilder.pdb
+/Users/user/Documents/GitHub/DesignPatterns/FluentBuilder/obj/Debug/net5.0/FluentBuilder.csprojAssemblyReference.cache
+/Users/user/Documents/GitHub/DesignPatterns/FluentBuilder/obj/Debug/net5.0/FluentBuilder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/GitHub/DesignPatterns/FluentBuilder/obj/Debug/net5.0/FluentBuilder.AssemblyInfoInputs.cache
+/Users/user/Documents/GitHub/DesignPatterns/FluentBuilder/obj/Debug/net5.0/FluentBuilder.AssemblyInfo.cs
+/Users/user/Documents/GitHub/DesignPatterns/FluentBuilder/obj/Debug/net5.0/FluentBuilder.csproj.CoreCompileInputs.cache
+/Users/user/Documents/GitHub/DesignPatterns/FluentBuilder/obj/Debug/net5.0/FluentBuilder.dll
+/Users/user/Documents/GitHub/DesignPatterns/FluentBuilder/obj/Debug/net5.0/ref/FluentBuilder.dll
+/Users/user/Documents/GitHub/DesignPatterns/FluentBuilder/obj/Debug/net5.0/FluentBuilder.pdb
+/Users/user/Documents/GitHub/DesignPatterns/FluentBuilder/obj/Debug/net5.0/FluentBuilder.genruntimeconfig.cache
